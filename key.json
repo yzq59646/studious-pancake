@@ -1,0 +1,7 @@
+{
+    "YOUR_KEY_HERE": {
+        "user": "PlayerName",
+        "deviceID": "device_unique_id_here",
+        "expire": "2024-12-31"
+    }
+}
